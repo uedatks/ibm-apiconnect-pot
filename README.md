@@ -3,17 +3,17 @@
 
 ## 目次
 
-[演習 1 - シンプルなAPIの作成](./Lab1)
+[演習 1 - シンプルなAPIの作成](./lab-guide/Lab1)
 
-[演習 2 - セキュリティー定義の付加されたAPIの作成](./Lab2)
+[演習 2 - セキュリティー定義の付加されたAPIの作成](./lab-guide/Lab2)
 
-[演習 3 - インポートによるAPIの作成](./Lab3)
+[演習 3 - インポートによるAPIの作成](./lab-guide/Lab3)
 
-[演習 4 - 製品化と公開](./Lab4)
+[演習 4 - 製品化と公開](./lab-guide/Lab4)
 
-[演習 5 - 開発者ポータルの利用](./Lab5)
+[演習 5 - 開発者ポータルの利用](./lab-guide/Lab5)
 
-[演習 6 - OAuthセキュリティーの実装](./Lab6)
+[演習 6 - OAuthセキュリティーの実装](./lab-guide/Lab6)
 
 ## 前提事項
 
@@ -27,7 +27,7 @@
  |![][info]   |情報|このマークは、ステップを終了するのに必ずしも必要ではないが、知識として役に立つ関連する情報を提供する場合に利用します。|
  |![][troubleshooting]   |トラブル<br>シューティング|このマークは、エラーや問題が発生した場合のトラブルシューティングに役立つ情報を提供する場合に利用します。|
 
-続いて、 [演習 1 - シンプルなAPIの作成](./Lab1)に進んでください。
+続いて、 [演習 1 - シンプルなAPIの作成](./lab-guide/Lab1)に進んでください。
 
 [important]: https://github.com/cp4i-jp/ibm-apiconnect-pot/raw/master/lab-guide/img/common/important.png "Important!"
 [info]: https://github.com/cp4i-jp/ibm-apiconnect-pot/raw/master/lab-guide/img/common/info.png "Information"
